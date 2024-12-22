@@ -38,8 +38,7 @@ button:hover{
 }
 button:active{
     translate: 2px;
-}
-
+} 
 audio{
     display: none;
 }
